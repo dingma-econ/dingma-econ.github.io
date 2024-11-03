@@ -49,6 +49,7 @@ Ph.D Student
 
 ## Teaching Experiences
 
+- TA
 
 ## Professional Services
 
