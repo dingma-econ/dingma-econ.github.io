@@ -52,12 +52,6 @@ Ph.D Student
 - Health Economics
 - Developpment Economics
 
-## Awards
-
-
-## Seminars and Converences
-
-
 ## Teaching Experiences
 
 - TA for Undergraduate: Macroeconomics, Enviromental Economicns
