@@ -77,12 +77,6 @@ blockquote {
   }
 }
 
-.homepage-table {
-  ul {
-    padding-left: 0;
-  }
-}
-
 @media (max-width: @screen-sm-max) {
   .homepage-table {
     tr, td {
@@ -99,50 +93,11 @@ blockquote {
   }
 }
 
-/* 学生 */
-.site-student {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 15px;
-}
-
-.site-student-image {
-  width: 200px;
-  max-width: 100%;
-  flex: 0 0 200px;
-
-  img {
-    aspect-ratio: 1/1;
-    object-fit: cover;
-  }
-}
-
-.site-student-info {
-  flex: 1 0 400px;
-  max-width: 100%;
-}
-
 /* 著作 */
 .publication-list {
   list-style: decimal;
 }
 
-/* 新闻 */
-.site-news-date {
-  float: right;
-  white-space: nowrap;
-
-  &::before {
-    content: "[";
-  }
-
-  &::after {
-    content: "]";
-  }
-}
 
 /* 前后导航 */
 .nav-prevnext {
