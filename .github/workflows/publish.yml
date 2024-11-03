@@ -35,7 +35,7 @@ jobs:
           ./node_modules/clean-css-cli/bin/cleancss assets/css/_main.css -o assets/css/main.css -O1 -O2 "restructureRules:on"
           rm assets/css/_main.css
       - name: Prepare build
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         run: |
           git clone --single-branch --branch=gh-pages --depth=1 --no-checkout "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" _site
       - name: Build Site
@@ -47,7 +47,7 @@ jobs:
           JEKYLL_ENV: production
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Publish to GitHub Pages
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         run: |
           pushd _site/ &>/dev/null
           : > .nojekyll
