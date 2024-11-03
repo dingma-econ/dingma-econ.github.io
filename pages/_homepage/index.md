@@ -15,7 +15,7 @@ Ph.D Student
 </div>
 <div class="site-personal-info" markdown="1">
 - <span class="icon icon-office"></span> Beijing, China
-- <span class="icon icon-mail"></span> [Email](mailto:2662084413@qq.com)
+- <span class="icon icon-mail"></span> [Email](mailto:d.ma@pku.edu.cn)
 - <span class="icon icon-google-scholar"></span> [Google Scholar](https://scholar.google.com)
 - <span class="icon icon-github"></span> [GitHub](https://github.com)
 - <span class="icon icon-orcid"></span> [ORCID](https://orcid.org)
