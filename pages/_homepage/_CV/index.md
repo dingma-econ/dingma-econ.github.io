@@ -34,11 +34,6 @@ Ph.D Student
       <td valign="top">National School of Development, Peking University</td>
     </tr>
     <tr>
-      <td valign="top" width="180"><ul><li>2024-2025 (expected)</li></ul></td>
-      <td width="180">Visiting Scholar</td>
-      <td valign="top">Charles H. Dyson School of Applied Economics and Management, Cornell University</td>
-    </tr>
-    <tr>
       <td valign="top" width="180"><ul><li>2017-2021</li></ul></td>
       <td valign="top">Bachelor of Science</td>
       <td valign="top">College of Environmental Sciences and Engineering, Peking University</td>
@@ -60,23 +55,14 @@ Ph.D Student
 
 ## Teaching Experiences
 
-- TA for Undergraduate: Macroeconomics, Enviromental Economicns
-- TA for Graudate: Urban Economics in Developing Countries (in English)
 
 ## Professional Services
 
-- Referee for China Economic Review, China Economic Quarterly International, China Economic Quarterly (Chinese version)
 
 ## Skills
 
-- Stata, R, ArcGIS, Matlab, LATEX
 
 ## Languages
-
-- Chinese (native), English (fluent)
-
-## References
-
 
 
 ---
