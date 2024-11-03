@@ -1,0 +1,12 @@
+@font-family-sans-serif-latin: Georgia, "Times New Roman";
+@font-family-sans-serif: @font-family-sans-serif-latin, serif;
+
+.biaodian {
+  font-family: serif;
+}
+
+html, body, .biaodian {
+  &[lang="en"], [lang="en"], [lang="en"] & {
+    font-family: @font-family-sans-serif-latin, serif;
+  }
+}

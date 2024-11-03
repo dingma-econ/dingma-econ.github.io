@@ -1,0 +1,109 @@
+/* header */
+@navbar-default-bg: @color-warm;
+@navbar-default-border: @gray-lighter;
+@navbar-default-color: #fff;
+
+@navbar-default-brand-color: #fff;
+@navbar-default-brand-hover-color: @color-warm-lighter;
+@navbar-default-brand-hover-bg: @color-warm;
+
+.navbar-brand {
+  height: 80px;
+
+  img {
+    height: 100%;
+  }
+}
+
+@navbar-default-link-color: #fff;
+@navbar-default-link-hover-color: @color-warm-lighter;
+@navbar-default-link-active-color: @color-warm-lighter;
+
+.site-navbar {
+  text-align: center;
+}
+
+.nav-link {
+  &::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    position: inherit;
+    bottom: 0;
+    background: white;
+    transition: all 0.3s ease-in-out;
+    transform: scale3d(0, 1, 1);
+    transform-origin: 50% 0;
+
+    .site-navbar-item-search & {
+      height: 0;
+    }
+  }
+
+  &:hover::after, .active &::after {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.site-navbar-item-search > a > .site-navbar-text {
+  width: 10em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: (@screen-xs-min - 1)) {
+  .navbar-nav > .site-navbar-item > a {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .navbar-nav > .site-navbar-item-search > a {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media screen and (max-width: @grid-float-breakpoint-max) {
+  .navbar-brand {
+    width: 100%;
+    text-align: center;
+  }
+
+  .site-navbar > ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .site-navbar-item {
+    flex: 1 0 auto;
+  }
+}
+
+@media screen and (max-width: @screen-xs-max) {
+  .site-navbar-item {
+    width: 25%;
+  }
+}
+
+@media screen and (min-width: @grid-float-breakpoint) and (max-width: @screen-sm-max) {
+  .navbar-brand {
+    height: @line-height-computed + @navbar-padding-vertical * 2 + 30px;
+    line-height: @line-height-computed + 30px;
+  }
+}
+
+@media screen and (min-width: @screen-md-min) {
+  .navbar-nav > .site-navbar-item > a {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
+
+.site-navbar-text {
+  width: 5em; 
+  display: inline-block;
+  font-size: large;
+}
