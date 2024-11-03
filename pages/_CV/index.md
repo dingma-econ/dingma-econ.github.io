@@ -75,10 +75,6 @@ Ph.D Student
 
 - Chinese (native), English (fluent)
 
-## References
-
-
-
 ---
 
 You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf" | relative_url }}).
