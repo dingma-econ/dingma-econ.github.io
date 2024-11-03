@@ -1,28 +1,12 @@
 homepage:
   en: Homepage
-  zh: 个人介绍
   link: /
+CV:
+  en: CV
+  link: /CV/
 research:
   en: Research
-  zh: 研究方向
   link: /research/
-fundings:
-  en: Fundings
-  zh: 科研项目
-  link: /fundings/
-publication:
-  en: Publication
-  zh: 论文著作
-  link: /publication/
-activity:
-  en: Activity
-  zh: 学术活动
-  link: /activity/
-group:
-  en: Group
-  zh: 学生成员
-  link: /group/
-news:
-  en: News
-  zh: 新闻
-  link: /news/
+contact:
+  en: Contact
+  link: /contact/
