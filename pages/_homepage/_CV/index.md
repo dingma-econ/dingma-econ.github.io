@@ -30,12 +30,12 @@ Ph.D Student
   <tbody>
     <tr>
       <td valign="top" width="180"><ul><li>2021-2026 (expected)</li></ul></td>
-      <td width="180">PhD</td>
+      <td width="180">Ph.D.</td>
       <td valign="top">National School of Development, Peking University</td>
     </tr>
     <tr>
       <td valign="top" width="180"><ul><li>2017-2021</li></ul></td>
-      <td valign="top">Bachelor of Science</td>
+      <td valign="top">B.S.</td>
       <td valign="top">College of Environmental Sciences and Engineering, Peking University</td>
     </tr>
   </tbody>
