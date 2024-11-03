@@ -27,7 +27,7 @@ Ph.D Student
 
 ## About Me
 
-Hi, Welcome to my website!
+Hi, welcome to my website!
 
 This is a test webpage for myself to learn how to make an academic webpage. All the information is made up, please don’t take it seriously :)
 
