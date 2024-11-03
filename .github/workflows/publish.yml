@@ -3,11 +3,11 @@ name: Publish
 on:
   push:
     branches:
-      - main
+      - master
       - test
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
