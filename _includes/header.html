@@ -1,9 +1,9 @@
-    <header class="site-header navbar navbar-static-top navbar-default">
-      <div class="container-fluid">
-        <nav class="site-navbar">
-          <ul class="nav navbar-nav navbar-right">{% for category in site.data.categories %}{% capture _ %}{{ category[1].link }}{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
-            <li class="site-navbar-item site-navbar-item-{{ category[0] }}{% if page.collection == category[0] %} active{% endif %}"><a class="nav-link" href="{{ _ | relative_url }}"><span class="site-navbar-text">{% if page.language == "zh" %}{{ category[1].zh }}{% else %}{{ category[1].en }}{% endif %}</span></a></li>{% endfor %}{% capture _ %}/search/{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
-          </ul>
-        </nav>
-      </div>
-    </header>
+<header class="site-header navbar navbar-static-top navbar-default">
+  <div class="container">
+    <nav class="site-navbar">
+      <ul class="nav navbar-nav navbar-right">{% for category in site.data.categories %}{% capture _ %}{{ category[1].link }}{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
+        <li class="site-navbar-item site-navbar-item-{{ category[0] }}{% if page.collection == category[0] %} active{% endif %}"><a class="nav-link" href="{{ _ | relative_url }}"><span class="site-navbar-text">{% if page.language == "zh" %}{{ category[1].zh }}{% else %}{{ category[1].en }}{% endif %}</span></a></li>{% endfor %}{% capture _ %}/search/{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
+      </ul>
+    </nav>
+  </div>
+</header>

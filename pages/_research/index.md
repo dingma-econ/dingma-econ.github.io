@@ -7,7 +7,7 @@ no_heading: true
 <div class="row">
 <div class="col-md-4" markdown="1">
 <div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/profile2.png" | relative_url }})
+![]({{ "/assets/images/profile.jpg" | relative_url }})
 
 ## Ding Ma
 
@@ -20,15 +20,8 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-## Publications
-
-<ul>
-<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
-<li>PAPER2<details><summary>[Abstract]</summary>xxxxx.</details></li>
-</ul>
-
 ## Working Paper
-
+<ol>
 <li>“<b>Environmental Health Benefits of Public Infrastructure: Evidence from Tap Water and Water Pollution in China</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a> and Shuo Li) </li>
 <ul><li>Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024</li></ul>
 <ul><li>Presentationss: Chinese Economists Society (CES) Annual Conference (Zhejiang University); China Center for Economic Research (CCER) Summer Institute (Peking University); The 8th Annual Meeting of the China Labor Economists Forum (Shanghai University of Finance and Economics); The 21st Seminar of Chinese Women Economists (Wuhan University)</li></ul>

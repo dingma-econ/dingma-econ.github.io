@@ -1,23 +1,23 @@
-    {% assign _excerpt = page.content | split: "<p>" %}{% assign _excerpt = _excerpt[1] | split: "</p>" %}{% assign _excerpt = _excerpt[0] | strip_html -%}
-    <meta charset="utf-8"/>
-    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
-    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}" />
-    <meta name="referrer" content="same-origin"/>
-    <link rel="shortcut icon" href="{{ "/assets/favicon/favicon.ico" | relative_url }}"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/apple-touch-icon.png" | relative_url }}"/>
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon/favicon-32x32.png" | relative_url }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon/favicon-16x16.png" | relative_url }}">
-    <link rel="manifest" href="{{ "/assets/favicon/site.webmanifest" | relative_url }}">
-    <meta name="theme-color" content="#e60012"/>
-    <title>{% if page.title and page.title != "" %}{{ page.title }} - {% endif %}{% if page.language == "zh" %}{{ site.name_zh }}{% else %}{{ site.name }}{% endif %}</title>
-    <!-- jquery -->
-    <script src="https://code.bdstatic.com/npm/jquery@3.6.0/dist/jquery.min.js" crossorigin="anonymous"></script>
-    <!-- //jquery -->
-    <!-- bootstrap -->
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v=20230222" />
-    <script src="https://code.bdstatic.com/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
-    <!-- //bootstrap -->
-    <!-- other -->
-    <script src="{{ "/assets/js/main.js" | relative_url }}?v=20230222"></script>
-    <!-- //other -->
+{% assign _excerpt = page.content | split: "<p>" %}{% assign _excerpt = _excerpt[1] | split: "</p>" %}{% assign _excerpt = _excerpt[0] | strip_html -%}
+<meta charset="utf-8"/>
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | strip }}" />
+<meta name="referrer" content="same-origin"/>
+<link rel="shortcut icon" href="{{ "/assets/favicon/favicon.ico" | relative_url }}"/>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/apple-touch-icon.png" | relative_url }}"/>
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon/favicon-32x32.png" | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon/favicon-16x16.png" | relative_url }}">
+<link rel="manifest" href="{{ "/assets/favicon/site.webmanifest" | relative_url }}">
+<meta name="theme-color" content="#e60012"/>
+<title>{% if page.title and page.title != "" %}{{ page.title }} - {% endif %}{% if page.language == "zh" %}{{ site.name_zh }}{% else %}{{ site.name }}{% endif %}</title>
+<!-- jquery -->
+<script src="https://code.bdstatic.com/npm/jquery@3.6.0/dist/jquery.min.js" crossorigin="anonymous"></script>
+<!-- //jquery -->
+<!-- bootstrap -->
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v=20230222" />
+<script src="https://code.bdstatic.com/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<!-- //bootstrap -->
+<!-- other -->
+<script src="{{ "/assets/js/main.js" | relative_url }}?v=20230222"></script>
+<!-- //other -->
