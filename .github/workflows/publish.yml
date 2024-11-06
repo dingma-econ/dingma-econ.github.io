@@ -21,7 +21,7 @@ jobs:
           echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.2
           bundler-cache: true
       - uses: actions/setup-node@v3
         with:
