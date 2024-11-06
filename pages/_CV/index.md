@@ -46,7 +46,7 @@ Ph.D Student
 
 - TA to [Prof. Xianling Long](https://nsd.pku.edu.cn/szdw/qzjs/l/524411.htm), Environmental Economics, Spring 2023 and 2024
 
-- TA to [Prof. Cong Peng](www.congpeng.org), Urban Economics in Developing Countries (Ph.D., in English), Fall 2023
+- TA to [Prof. Cong Peng](https://www.congpeng.org/), Urban Economics in Developing Countries (Ph.D., in English), Fall 2023
 - TA to [Prof. Lijun Zhu](https://sites.google.com/view/lijunzhu/), Intermediate Macroeconomics (UG core), Fall 2022
 
 ## Professional Services
