@@ -30,6 +30,7 @@ I will be on the 2025-2026 academic job market.
 
 ## Research interests
 Environmental Economics: water pollution; climate change; firm dynamics.
+
 Health Economics: environmental health outcome; nutrition.
 
 ## Webpage Visitors
