@@ -32,6 +32,5 @@ I will be on the 2025-2026 academic job market.
 Environmental Economics: water pollution; climate change; firm dynamics.
 Health Economics: environmental health outcome; nutrition.
 
-
 ## Webpage Visitors
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=IaCHxSdHVCahIsDY6MTMIuQNIUck320Q-IX0O4mZhKw&co=c0c4c6&cmo=4a6d42&cmn=685c7f&ct=ffffff'></script>
