@@ -51,7 +51,7 @@ Ph.D Student
 
 ## Professional Services
 
-- Referee services for: China Economic Review, China Economic Quarterly International, 经济学（季刊）
+- Referee services for: China Economic Review (×4), China Economic Quarterly International (×2), 经济学（季刊） (×2)
 
 ## Awards
 
@@ -63,7 +63,7 @@ Ph.D Student
 
 ## Skills
 
-- STATA, R, Python(for NetCDF data cleaning), ArcGIS, LATEX
+- STATA, R, Python (for NetCDF data cleaning), ArcGIS, LaTeX
 
 ## Languages
 

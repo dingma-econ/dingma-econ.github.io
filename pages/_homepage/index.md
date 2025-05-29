@@ -24,9 +24,13 @@ Ph.D Student
 
 Hi, welcome to my website!
 
-This is a test webpage for myself to learn how to make an academic webpage :)
+I have been a Ph.D. student in the [National School of Development](https://nsd.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) since September 2021. My research interest includes environmental economics and health economics.
 
-I’m a fourth year Ph.D. student from [NSD](https://nsd.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes environmental economics, health economics, and development economics.
+I will be on the 2025-2026 academic job market.
+
+## Research interests
+Environmental Economics: water pollution; climate change; firm dynamics.
+Health Economics: environmental health outcome; nutrition.
 
 
 ## Webpage Visitors
