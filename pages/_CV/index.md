@@ -51,7 +51,7 @@ Ph.D Student
 
 ## Professional Services
 
-- Referee services for: China Economic Review (×4), China Economic Quarterly International (×2), 经济学（季刊） (×2)
+- Referee services for: China Economic Review (×5), China Economic Quarterly International (×2), 经济学（季刊） (×2)
 
 ## Awards
 
