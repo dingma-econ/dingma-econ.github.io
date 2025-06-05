@@ -24,20 +24,20 @@ Ph.D Student
 <table class="homepage-table">
   <tbody>
     <tr>
-      <td valign="top" width="240"><ul><li>Sep. 2021 - Jul. 2026 (expected)</li></ul></td>
-      <td valign="baseline">Ph.D, Economics, National School of Development, Peking University (Supervisor: <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Prof. Min Wang</a>)</td>
+      <td valign="top" width="1000">Ph.D, Economics, National School of Development, Peking University (Supervisor: <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Prof. Min Wang</a>)</td>
+      <td valign="baseline"><ul><li>Sep. 2021 - Jul. 2026 (expected)</li></ul></td>
     </tr>
     <tr>
-      <td valign="baseline"><ul><li>Aug. 2024 - Aug. 2025 (expected)</li></ul></td>
       <td valign="baseline">Postgraduate Fellow, Charles H. Dyson School of Applied Economics and Management, Cornell University (Supervisor: <a href="https://dyson.cornell.edu/faculty-research/faculty/jz638/">Prof. Jinhua Zhao</a>)</td>
+      <td valign="baseline"><ul><li>Aug. 2024 - Aug. 2025 (expected)</li></ul></td>
     </tr>
-    <tr>
-      <td valign="baseline"><ul><li>2017-2021</li></ul></td>
+    <tr>      
       <td valign="baseline">B.S., Environmental Science, College of Environmental Sciences and Engineering, Peking University</td>
+      <td valign="baseline"><ul><li>2017-2021</li></ul></td>
     </tr>
     <tr>
-      <td valign="baseline"><ul><li>2018-2021</li></ul></td>
       <td valign="baseline">B.A., Economics, National School of Development, Peking University</td>
+      <td valign="baseline"><ul><li>2018-2021</li></ul></td>
     </tr>
   </tbody>
 </table>
