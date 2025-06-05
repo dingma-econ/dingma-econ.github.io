@@ -30,7 +30,7 @@ Ph.D Student
 
 
 <li>“<b>Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a>, <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a> and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>) </li>
-<ul><li>R&R at Journal of Environmental Economics and Management</li></ul>
+<ul><li>R&R at <b><i>Journal of Environmental Economics and Management</i></b></li></ul>
 <ul><li>Presentations by co-authors: The 4th Annual Conference of CAERE (Shanghai University of Finance and Economics)</li></ul>
 <details><summary>[Abstract]</summary>This paper examines how extreme temperatures shape firm entry decisions and industrial geography. Leveraging comprehensive firm registration data from China, we identify an inverted U-shaped relationship between temperature and firm entry, while firm exit remains largely unresponsive. Sector analyses reveal that temperature extremes suppress firm entry in agriculture and industry through production shocks, and in services through demand-side spillovers. Firms also adapt by shifting equity investments toward new firm establishments in regions with milder climates. Climate projections indicate that ongoing warming will significantly reshape industrial geography, with warmer regions experiencing greater losses. These findings highlight firm location choice as a critical channel of climate adaptation and underscore the role of temperature risk in driving long-term spatial economic change.</details>
 
