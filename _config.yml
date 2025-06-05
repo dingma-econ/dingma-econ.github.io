@@ -10,7 +10,7 @@ collections:
     output: true
     sort_by: date
   contact:
-    output: true
+    output: false
     sort_by: date
 collections_dir: pages
 defaults:
