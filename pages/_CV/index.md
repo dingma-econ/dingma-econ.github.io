@@ -29,7 +29,7 @@ Ph.D Student
     </tr>
     <tr>
       <td valign="baseline"><ul><li>Postgraduate Fellow, Charles H. Dyson School of Applied Economics and Management, Cornell University (Supervisor: <a href="https://dyson.cornell.edu/faculty-research/faculty/jz638/">Prof. Jinhua Zhao</a>)</li></ul></td>
-      <td valign="baseline">Aug. 2024 - Aug. 2025 (expected)x</td>
+      <td valign="baseline">Aug. 2024 - Aug. 2025 (expected)</td>
     </tr>
     <tr>      
       <td valign="baseline"><ul><li>B.S., Environmental Science, College of Environmental Sciences and Engineering, Peking University</li></ul></td>
