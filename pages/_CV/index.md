@@ -55,6 +55,9 @@ Ph.D Student
 
 ## Awards
 
+- Excellent Paper Award, The 7th China Health Economic Development Forum, 2024
+- Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
+- Excellent Paper Award, The 6th China Health Economic Development Forum, 2023
 - Award for Academic Excellence, Peking University, 2022 & 2023
 - Excellent Teaching Assistant Award, Peking University, 2022
 - National Scholarship, Peking University, 2020
