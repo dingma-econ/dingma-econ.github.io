@@ -50,5 +50,5 @@ Ph.D Student
 <li>Ding Ma and Shuo Li*. “<b>Trends in China’s surface water quality and control policy solutions</b>”. <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.
 </li>
 马丁,李硕 (通讯作者).中国地表水水质变化趋势及治理政策应对[J].<b><i>中国人口·资源与环境</i></b>, 2023,33(05):27-39.
-<li>马丁. 埃塞俄比亚外汇管制问题分析.<b><i>《冲突与发展：埃塞俄比亚政治、经济与社会研究》第七章</i></b>, 待出版.</li>
+<li>马丁. 埃塞俄比亚外汇管制问题分析.<b><i>《冲突与发展：埃塞俄比亚政治、经济与社会研究》第七章</i></b>, 2025</li>
 </ol>
