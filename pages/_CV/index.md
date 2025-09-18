@@ -76,7 +76,7 @@ Ph.D Student
 
 ---
 
-<!-- You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf" | relative_url }}). -->
+You can also download a PDF copy of my CV [here]({{ "/assets/CV_Ding_Ma.pdf" | relative_url }}).
 
 </div>
 </div>
