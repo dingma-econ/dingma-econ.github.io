@@ -21,7 +21,7 @@ Ph.D Student
 
 
 You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}) or in [Chinese]({{ "/assets/CV_Ding_Ma_CHN.pdf" | relative_url }}).
----
+
 
 ## Education
 
