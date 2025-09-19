@@ -19,8 +19,6 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}) or in [Chinese]({{ "/assets/CV_Ding_Ma_CHN.pdf" | relative_url }}).
-
 ## Education
 
 <table class="homepage-table">
@@ -74,6 +72,9 @@ You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_EN
 ## Languages
 
 - Chinese (native), English (fluent)
+
+---
+You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}) or in [Chinese]({{ "/assets/CV_Ding_Ma_CHN.pdf" | relative_url }}).
 
 
 ---
