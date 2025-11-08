@@ -55,7 +55,7 @@ You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_EN
 
 ## Professional Services
 
-- Referee services for: Journal of Environmental Economics and Management (×1), China Economic Review (×5), China Economic Quarterly International (×2), China Economic Journal (×1), 经济学（季刊） (×2)
+- Referee services for: Journal of Environmental Economics and Management (×1), China Economic Review (×6), China Economic Quarterly International (×2), China Economic Journal (×1), 经济学（季刊） (×2)
 - Data & code reviewer: 经济学（季刊） (×20)
 
 ## Awards
