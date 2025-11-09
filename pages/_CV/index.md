@@ -60,6 +60,7 @@ You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_EN
 
 ## Awards
 
+- The Second Award and The Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics, 2025
 - Excellent Paper Award, The 7th China Health Economic Development Forum, 2024
 - Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
 - Excellent Paper Award, The 6th China Health Economic Development Forum, 2023
