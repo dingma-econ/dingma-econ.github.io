@@ -20,10 +20,10 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-## Working Paper
+## Research
 <ol>
 <li>“<b>Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>) [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441897">SSRN</a>] <span class="label label-a">Climate change</span></li>
-<ul><li> Conditionally Accepted at <b><i>Journal of Environmental Economics and Management</i></b></li></ul>
+<ul><li> Accepted at <b><i>Journal of Environmental Economics and Management</i></b></li></ul>
 <ul><li>Presentations: Doctoral Forum on Quantitative Economics (Xiamen University, 2025); The 25th China Economic Annual Conference (Shanghai Jiao Tong University, 2025)</li></ul>
 <ul><li>Presentations by co-authors: The 9th CCER Summer Institute (Peking University, 2025); The 4th Annual Conference of CAERE (Shanghai University of Finance and Economics, 2025)</li></ul> 
 <details><summary>[Abstract]</summary>This paper examines how extreme temperatures shape firm entry decisions and industrial geography. Leveraging comprehensive firm registration data from China, we identify an inverted U-shaped relationship between temperature and firm entry, while firm exit remains largely unresponsive. Mechanism analyses reveal that temperature shocks disproportionately reduce entry in labor-intensive industries within tradable sectors. This effect operates through temperature-induced labor productivity losses, whereas entry in non-tradable sectors, such as services, declines indirectly through reduced local demand from downstream industrial clients. Firms also adapt by shifting equity investments toward new firm establishments in regions with milder climates. Climate projections indicate that continued warming will substantially reshape industrial geography. These findings highlight firm location choice as a critical channel of climate adaptation and underscore the role of temperature risk in driving long-term spatial economic change.</details>
