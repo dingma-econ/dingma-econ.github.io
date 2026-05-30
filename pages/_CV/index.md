@@ -55,7 +55,7 @@ Ph.D Student
 
 ## Professional Services
 
-- Referee services for: Journal of Environmental Economics and Management (×1), China Economic Review (×6), China Economic Quarterly International (×2), China Economic Journal (×1), 经济学（季刊） (×2)
+- Referee services for: Management Science (×1), Journal of Environmental Economics and Management (×1), Papers in Regional Science (×1), China Economic Review (×11), China Economic Quarterly International (×2), China Economic Journal (×2), 经济学（季刊） (×2)
 - Data & code reviewer: 经济学（季刊） (×20)
 
 ## Awards
