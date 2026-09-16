@@ -1,7 +1,28 @@
 /* content */
 /* heading */
 .site-heading {
-  border-bottom: 2px solid @gray;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 26px;
+
+  h1 {
+    font-size: 30px;
+    margin: 0 0 10px;
+  }
+}
+
+/* section headings inside the article get a thin rule */
+article h2 {
+  font-size: 21px;
+  margin-top: 1.8em;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #eee;
+}
+
+/* ...but not the name in the home-page sidebar */
+.site-personal-heading h2 {
+  margin-top: 18px;
+  padding-bottom: 0;
+  border-bottom: 0;
 }
 
 /* main */
@@ -62,36 +83,22 @@ summary {
   display: list-item;
 }
 
+/* topic tags: soft tinted pills */
 .label {
-  padding: 4px 8px;
-  border-radius: 4px;
-  color: white;
+  padding: 3px 9px;
+  border-radius: 999px;
+  border: 1px solid transparent;
   font-size: 11px;
+  font-weight: 600;
+  vertical-align: 1px;
 }
 
-.label-a {
-  background-color: #337ab7;
-}
-
-.label-b {
-  background-color: #f0ad4e;
-}
-
-.label-c {
-  background-color: #cc0001; 
-}
-
-.label-d {
-  background-color: #4CAF50;
-}
-
-.label-e {
-  background-color: #BA55D3;
-}
-
-.label-f {
-  background-color: #808080;
-}
+.label-a { background-color: #e8f0fb; color: #1d4f91; border-color: #cfdcf0; } // climate change (blue)
+.label-b { background-color: #fff3e0; color: #9a5200; border-color: #f3dbb6; } // health (orange)
+.label-c { background-color: #e7f4ea; color: #1e6b34; border-color: #c5e3cd; } // environment (green)
+.label-d { background-color: #f3e8fb; color: #6a2c91; border-color: #e0cdef; } // spare (purple)
+.label-e { background-color: #fde8e8; color: #a12626; border-color: #f2c9c9; } // spare (red)
+.label-f { background-color: #f0f0f0; color: #555555; border-color: #dddddd; } // spare (gray)
 
 
 /* research page */
@@ -99,7 +106,7 @@ summary {
   padding-left: 1.5em;
 
   > li {
-    margin-bottom: 1.2em;
+    margin-bottom: 1.4em;
   }
 
   > li > ul {
@@ -109,12 +116,40 @@ summary {
   }
 
   details {
-    margin-top: 0.3em;
+    margin-top: 0.4em;
     font-size: 0.95em;
   }
 
+  // "Abstract" toggle: small link-coloured text with a triangle marker
   summary {
+    display: inline-block;
+    list-style: none;
+    color: @link-color;
+    font-size: 0.9em;
     cursor: pointer;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "\25B8\00a0";
+    }
+  }
+
+  // opened abstract sits in a light box with a left rule
+  details[open] {
+    background: #f7f7f5;
+    border-left: 3px solid #d9d9d9;
+    padding: 8px 14px 10px;
+
+    summary {
+      margin-bottom: 4px;
+
+      &::before {
+        content: "\25BE\00a0";
+      }
+    }
   }
 }
 

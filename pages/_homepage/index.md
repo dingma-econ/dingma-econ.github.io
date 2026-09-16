@@ -18,6 +18,7 @@ Nanjing Agricultural University
 <div class="site-personal-info" markdown="1">
 - <span class="icon icon-office"></span> Nanjing, China
 - <span class="icon icon-mail"></span> [dingma@njau.edu.cn](mailto:dingma@njau.edu.cn)
+- <span class="icon icon-google-scholar"></span> [Google Scholar](https://scholar.google.com/citations?user=O85dc8wAAAAJ&hl=en)
 </div>
 </div>
 <div class="col-md-8" markdown="1">
