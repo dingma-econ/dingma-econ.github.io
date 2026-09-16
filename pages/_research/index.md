@@ -12,7 +12,7 @@ no_heading: true
 ## Publications
 
 <ol class="paper-list">
-<li>“<b><a href="https://www.sciencedirect.com/science/article/pii/S0095069626000057">Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</a></b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>), <b><i>Journal of Environmental Economics and Management</i></b>, 2026, 137, 103285. <span class="label label-a">Climate change</span>
+<li>“<b><a href="https://www.sciencedirect.com/science/article/pii/S0095069626000057">Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</a></b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>), <b><i>Journal of Environmental Economics and Management</i></b>, 2026, 137, 103285. <span class="label label-a">Climate change</span> <span class="label label-d">Firm</span>
 <!-- Presentations
 <ul>
 <li>Presentations: Doctoral Forum on Quantitative Economics (Xiamen University, 2025); The 25th China Economic Annual Conference (Shanghai Jiao Tong University, 2025)</li>
@@ -67,7 +67,7 @@ no_heading: true
 <details><summary>Abstract</summary>Based on data from the China Health and Nutrition Survey and Surface Water Quality Weekly Report, we estimate the effects of water pollution, tap water, and their interaction on individual health status. Using the panel IV regression method, we find that water pollution significantly increases the morbidity rate, while ignoring the different levels of pollution exposure caused by the use of tap water may lead to a serious underestimate of the impact of water pollution. Regression results show that tap water can offset about 60% of the negative health effects of water pollution, and the non-offsetting part may come from pollutants that cannot be eliminated by treatment processes in waterworks. Finally, comparing the disease cost and the total health cost caused by water pollution, we find that nearly 2/3 of the health cost can be attributed to the disease cost. As one of the most important infrastructure investments, the adoption of tap water greatly eliminates the negative impact of water pollution on the health of Chinese residents. This has important general implications for low-income countries with a low proportion of tap water supply worldwide.</details>
 </li>
 
-<li>“<b>Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-c">Environment</span>
+<li>“<b>Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-c">Environment</span> <span class="label label-d">Firm</span>
 <!-- Presentations
 <ul>
 <li>Presentations by co-authors: The Second Conference on Development and Governance: Towards a Global Sustainable Future (CUHK Shenzhen, 2025)</li>
@@ -80,8 +80,7 @@ no_heading: true
 ## Publications in Chinese
 
 <ol class="paper-list">
-<li>Ding Ma and Shuo Li*. “<b>Trends in China's Surface Water Quality and Control Policy Solutions</b>”. <b><i>China Population, Resources and Environment</i></b>, 2023, 33(05): 27-39.<br>
-马丁, 李硕 (通讯作者). 中国地表水水质变化趋势及治理政策应对[J]. 《中国人口·资源与环境》, 2023, 33(05): 27-39.</li>
+<li>马丁, 李硕 (通讯作者). 中国地表水水质变化趋势及治理政策应对[J]. 《中国人口·资源与环境》, 2023, 33(05): 27-39.</li>
 
 <li>马丁. 埃塞俄比亚外汇管制问题分析. 《冲突与发展：埃塞俄比亚政治、经济与社会研究》, 北京: 新华出版社, 2025: 第六章.</li>
 </ol>
