@@ -21,7 +21,7 @@ title: Research
 <details><summary>[Abstract]</summary>This paper examines how extreme temperatures shape firm entry decisions and industrial geography. Leveraging comprehensive firm registration data from China, we identify an inverted U-shaped relationship between temperature and firm entry, while firm exit remains largely unresponsive. Mechanism analyses reveal that temperature shocks disproportionately reduce entry in labor-intensive industries within tradable sectors. This effect operates through temperature-induced labor productivity losses, whereas entry in non-tradable sectors, such as services, declines indirectly through reduced local demand from downstream industrial clients. Firms also adapt by shifting equity investments toward new firm establishments in regions with milder climates. Climate projections indicate that continued warming will substantially reshape industrial geography. These findings highlight firm location choice as a critical channel of climate adaptation and underscore the role of temperature risk in driving long-term spatial economic change.</details>
 </li>
 
-<li>“<b>Incentivizing Environmental Public Goods: Evidence from Urban Greening in China</b>” (with <a href="https://sites.google.com/view/zhiren-hu/about-me">Zhiren Hu</a> and Xintong Li), <b><i>Journal of Environmental Economics and Management</i></b>, forthcoming. <span class="label label-c">Environment</span>
+<li>“<b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069626001476">Incentivizing Environmental Public Goods: Evidence from Urban Greening in China</a></b>” (with <a href="https://sites.google.com/view/zhiren-hu/about-me">Zhiren Hu</a> and Xintong Li), <b><i>Journal of Environmental Economics and Management</i></b>, forthcoming. <span class="label label-c">Environment</span>
 <ul>
 <li>Previously circulated as “Hiding Behind the Trees: Pollution Control and Urban Greening in China”</li>
 </ul>
@@ -37,8 +37,9 @@ title: Research
 ## Working Papers
 
 <ol class="paper-list">
-<li>“<b>Extreme Temperatures Promote High-Fat Diets</b>” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) [<a href="https://www.nber.org/papers/w34609">NBER Working Paper No. 34609</a>] <span class="label label-a">Climate change</span> <span class="label label-b">Health</span>
+<li>“<b>Temperature and the Composition of Diets</b>” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) [<a href="https://www.nber.org/papers/w34609">NBER Working Paper No. 34609</a>] <span class="label label-a">Climate change</span> <span class="label label-b">Health</span>
 <ul>
+<li>Previously circulated as “Extreme Temperatures Promote High-Fat Diets”</li>
 <li>The Second Award and The Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics, 2025</li>
 <li>Excellent Paper Award, The 6th China Health Economic Development Forum, 2023</li>
 </ul>

@@ -33,10 +33,5 @@ I received my Ph.D. in Economics from the [National School of Development](https
 - **Environmental Economics:** environmental policy; climate change; water pollution
 - **Health Economics:** environmental health; nutrition
 
-## Contact
-
-College of Economics and Management, Nanjing Agricultural University<br>
-Email: [dingma@njau.edu.cn](mailto:dingma@njau.edu.cn)
-
 </div>
 </div>
