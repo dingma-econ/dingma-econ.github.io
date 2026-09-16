@@ -1,6 +1,7 @@
 ---
 language: en
 title: Curriculum Vitae
+no_heading: true
 ---
 
 {% capture cv_pdf %}{{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}?v={{ site.time | date: "%Y%m%d%H%M" }}{% endcapture %}

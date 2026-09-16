@@ -1,6 +1,7 @@
 ---
 language: en
 title: Research
+no_heading: true
 ---
 
 <!--
