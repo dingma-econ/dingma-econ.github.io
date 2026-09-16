@@ -1,8 +1,9 @@
 <header class="site-header navbar navbar-static-top navbar-default">
   <div class="container">
+    <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.name }}</a>
     <nav class="site-navbar">
-      <ul class="nav navbar-nav navbar-right">{% for category in site.data.categories %}{% capture _ %}{{ category[1].link }}{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
-        <li class="site-navbar-item site-navbar-item-{{ category[0] }}{% if page.collection == category[0] %} active{% endif %}"><a class="nav-link" href="{{ _ | relative_url }}"><span class="site-navbar-text">{% if page.language == "zh" %}{{ category[1].zh }}{% else %}{{ category[1].en }}{% endif %}</span></a></li>{% endfor %}{% capture _ %}/search/{% if page.language == "zh" %}index_zh.html{% endif %}{% endcapture %}
+      <ul class="nav navbar-nav navbar-right">{% for category in site.data.categories %}
+        <li class="site-navbar-item site-navbar-item-{{ category[0] }}{% if page.collection == category[0] %} active{% endif %}"><a class="nav-link" href="{{ category[1].link | relative_url }}"><span class="site-navbar-text">{{ category[1].en }}</span></a></li>{% endfor %}
       </ul>
     </nav>
   </div>

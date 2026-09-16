@@ -1,86 +1,11 @@
 ---
 language: en
-title: Homepage
-no_heading: true
----
-<div class="row">
-<div class="col-md-4" markdown="1">
-<div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/profile.jpg" | relative_url }})
-
-## Ding Ma
-
-Ph.D Student
-</div>
-<div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> Beijing, China
-- <span class="icon icon-mail"></span> [Email](mailto:d.ma@pku.edu.cn)
-</div>
-</div>
-<div class="col-md-8" markdown="1">
-
-
-<!--You can also download a PDF copy of my CV in [English]({{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}) or in [Chinese]({{ "/assets/CV_Ding_Ma_CHN.pdf" | relative_url }}).-->
-
-
-## Education
-
-<table class="homepage-table">
-  <tbody>
-    <tr>
-      <td valign="top" width="600"><ul><li>Ph.D, Economics, National School of Development, Peking University (Supervisor: <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Prof. Min Wang</a>)</li></ul></td>
-      <td valign="baseline">Sep. 2021 - Jul. 2026 (expected)</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>Postgraduate Fellow, Charles H. Dyson School of Applied Economics and Management, Cornell University (Supervisor: <a href="https://dyson.cornell.edu/faculty-research/faculty/jz638/">Prof. Jinhua Zhao</a>)</li></ul></td>
-      <td valign="baseline">Sep.1 2024 - Aug.31 2025</td>
-    </tr>
-    <tr>      
-      <td valign="baseline"><ul><li>B.S., Environmental Science, College of Environmental Sciences and Engineering, Peking University</li></ul></td>
-      <td valign="baseline">2017-2021</td>
-    </tr>
-    <tr>
-      <td valign="baseline"><ul><li>B.A., Economics, National School of Development, Peking University</li></ul></td>
-      <td valign="baseline">2018-2021</td>
-    </tr>
-  </tbody>
-</table>
-
-## Teaching Experiences
-
-- TA to [Prof. Xianling Long](https://nsd.pku.edu.cn/szdw/qzjs/l/524411.htm), Environmental Economics, Spring 2023 and 2024
-
-- TA to [Prof. Cong Peng](https://www.congpeng.org/), Urban Economics in Developing Countries (Ph.D., in English), Fall 2023
-- TA to [Prof. Lijun Zhu](https://sites.google.com/view/lijunzhu/), Intermediate Macroeconomics (UG core), Fall 2022
-
-## Professional Services
-
-- Referee services for: Management Science (×1), Journal of Environmental Economics and Management (×1), Papers in Regional Science (×1), China Economic Review (×11), China Economic Quarterly International (×2), China Economic Journal (×2), 经济学（季刊） (×2)
-- Data & code reviewer: 经济学（季刊） (×20)
-
-## Awards
-
-- The Second Award and The Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics, 2025
-- Excellent Paper Award, The 7th China Health Economic Development Forum, 2024
-- Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024
-- Excellent Paper Award, The 6th China Health Economic Development Forum, 2023
-- Award for Academic Excellence, Peking University, 2019 & 2022 & 2023
-- Excellent Teaching Assistant Award, Peking University, 2022 Fall
-- Excellent Graduate, Peking University, 2021
-- National Scholarship, Peking University, 2020
-- Merit Student Pacesetter, Peking University, 2020
-- Merit Student, Peking University, 2018
-- May 4th Scholarship, Peking University, 2018
-
-## Skills
-
-- STATA, R, Python (for NetCDF data cleaning), ArcGIS, LaTeX
-
-## Languages
-
-- Chinese (native), English (fluent)
-
+title: Curriculum Vitae
 ---
 
-</div>
-</div>
+My curriculum vitae is available as a PDF. You can view it in your browser or download a copy.
+
+<p class="cv-buttons">
+<a class="btn btn-cv btn-lg" href="{{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}" target="_blank" rel="noopener">View CV (PDF)</a>
+<a class="btn btn-default btn-lg" href="{{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}" download="CV_Ding_Ma.pdf">Download CV</a>
+</p>

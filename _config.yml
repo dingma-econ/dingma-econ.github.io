@@ -35,9 +35,10 @@ kramdown:
     css_class: "highlight"
 markdown: kramdown
 name: Ding Ma
+email: dingma@njau.edu.cn
 plugins:
   - jekyll-sitemap
   - jekyll-sass-converter
 timezone: Asia/Beijing
-title: Ding's Website
+title: Ding Ma
 url: #url

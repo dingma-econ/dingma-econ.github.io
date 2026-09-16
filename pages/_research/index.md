@@ -1,63 +1,85 @@
 ---
 language: en
 title: Research
-no_heading: true
 ---
 
-<div class="row">
-<div class="col-md-4" markdown="1">
-<div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/profile.jpg" | relative_url }})
+<!--
+  NOTE: Presentation lists are kept in the source but commented out.
+  To show them again, delete the marker line above each block and the closing marker line below it.
+-->
 
-## Ding Ma
+## Publications
 
-Ph.D Student
-</div>
-<div class="site-personal-info" markdown="1">
-- <span class="icon icon-office"></span> Beijing, China
-- <span class="icon icon-mail"></span> [Email](mailto:d.ma@pku.edu.cn)
-</div>
-</div>
-<div class="col-md-8" markdown="1">
-
-## Research
-<ol>
-<li>“<b><a href="https://www.sciencedirect.com/science/article/pii/S0095069626000057">Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</a></b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>), <b><i>Journal of Environmental Economics and Management</i></b>, 2026, Volume 137, 103285. <span class="label label-a">Climate change</span></li>
-<ul><li>Presentations: Doctoral Forum on Quantitative Economics (Xiamen University, 2025); The 25th China Economic Annual Conference (Shanghai Jiao Tong University, 2025)</li></ul>
-<ul><li>Presentations by co-authors: The 9th CCER Summer Institute (Peking University, 2025); The 4th Annual Conference of CAERE (Shanghai University of Finance and Economics, 2025)</li></ul> 
+<ol class="paper-list">
+<li>“<b><a href="https://www.sciencedirect.com/science/article/pii/S0095069626000057">Hot and Cold Choices: The Role of Extreme Temperatures in Shaping Industrial Geographical Distribution</a></b>” (with <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/w/240007.htm">Min Wang</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://csxy.zuel.edu.cn/2019/1104/c7501a227525/page.htm">Xiumei Yu</a>), <b><i>Journal of Environmental Economics and Management</i></b>, 2026, 137, 103285. <span class="label label-a">Climate change</span>
+<!-- Presentations
+<ul>
+<li>Presentations: Doctoral Forum on Quantitative Economics (Xiamen University, 2025); The 25th China Economic Annual Conference (Shanghai Jiao Tong University, 2025)</li>
+<li>Presentations by co-authors: The 9th CCER Summer Institute (Peking University, 2025); The 4th Annual Conference of CAERE (Shanghai University of Finance and Economics, 2025)</li>
+</ul>
+-->
 <details><summary>[Abstract]</summary>This paper examines how extreme temperatures shape firm entry decisions and industrial geography. Leveraging comprehensive firm registration data from China, we identify an inverted U-shaped relationship between temperature and firm entry, while firm exit remains largely unresponsive. Mechanism analyses reveal that temperature shocks disproportionately reduce entry in labor-intensive industries within tradable sectors. This effect operates through temperature-induced labor productivity losses, whereas entry in non-tradable sectors, such as services, declines indirectly through reduced local demand from downstream industrial clients. Firms also adapt by shifting equity investments toward new firm establishments in regions with milder climates. Climate projections indicate that continued warming will substantially reshape industrial geography. These findings highlight firm location choice as a critical channel of climate adaptation and underscore the role of temperature risk in driving long-term spatial economic change.</details>
+</li>
 
-<li>“<b>Incentivizing Environmental Public Goods: Evidence from Urban Greening in China</b>” (with <a href="https://sites.google.com/view/zhiren-hu/about-me">Zhiren Hu</a> and Xintong Li) <span class="label label-c">Environment</span></li>
-<ul><li>R&R at <b><i>Journal of Environmental Economics and Management</i></b></li></ul>
-<ul><li>Old name: Hiding Behind the Trees: Pollution Control and Urban Greening in China</li></ul>
-<ul><li>Presentations: The 25th China Economic Annual Conference (Shanghai Jiao Tong University, 2025); The 10th China Urban Governance Innovation and Discipline Development Symposium (Renmin University of China, 2025)</li></ul>
+<li>“<b>Incentivizing Environmental Public Goods: Evidence from Urban Greening in China</b>” (with <a href="https://sites.google.com/view/zhiren-hu/about-me">Zhiren Hu</a> and Xintong Li), <b><i>Journal of Environmental Economics and Management</i></b>, forthcoming. <span class="label label-c">Environment</span>
+<ul>
+<li>Previously circulated as “Hiding Behind the Trees: Pollution Control and Urban Greening in China”</li>
+</ul>
+<!-- Presentations
+<ul>
+<li>Presentations: The 25th China Economic Annual Conference (Shanghai Jiao Tong University, 2025); The 10th China Urban Governance Innovation and Discipline Development Symposium (Renmin University of China, 2025)</li>
+</ul>
+-->
 <details><summary>[Abstract]</summary>China's rapid surge in urban greening over the past decade presents a puzzling deviation from global patterns. We document three stylized facts. Urban greening was stable from 2001 to 2013 but expanded rapidly afterward, coinciding with China's air pollution control efforts. More polluted cities experienced faster greening growth, and greening disproportionately occurred near air quality monitoring stations. These patterns suggest that urban greening partly reflects a strategic response by local governments to air pollution control mandates. The economic benefits of urban greening amount to approximately 1.16 trillion CNY per year, exceeding program costs. Our results suggest that top-down air pollution control reshaped local government incentives, improving the provision of environmental public goods and social welfare.</details>
-
-<li>“<b>Extreme Temperatures Promote High-Fat Diets</b>” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) [<a href="https://www.nber.org/papers/w34609">NBER WP No. w34609</a>] <span class="label label-a">Climate change</span> <span class="label label-b">Health</span></li>
-<ul><li>Excellent Paper Award, The 6th China Health Economic Development Forum, 2023</li></ul>
-<ul><li>The Second Award and The Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics, 2025</li></ul>
-<ul><li>Presentations: The 8th HEOA Doctoral Forum on Health Policy and Economics (Sichuan University, 2025); The 5th PKU - FDU Graduate Forum on Health Economics (Peking University, 2025); The 8th China Health Economics Forum (Xiamen University, 2025)</li></ul>
-<ul><li>Presentations by co-authors: The 9th CCER Summer Institute (Peking University, 2025); The 4th Annual Conference of CAERE (Shanghai University of Finance and Economics, 2025); The 6th China Health Economic Development Forum (Wuhan University, 2023)</li></ul>
-<details><summary>[Abstract]</summary>Extreme temperatures threaten agriculture and exacerbate global food insecurity, yet their direct impact on dietary choices remains poorly understood. We provide novel evidence of how short-term exposures to hot or cold weather affect macronutrient intake in China. We show that hot weather reduces carbohydrate and protein consumption but not fat intake, while cold weather increases all nutrient intake, particularly fats. Both conditions elevate high-fat diet risks. Temperature-induced dietary changes are primarily driven by physiological appetite regulation, as altering thermal comfort (via fans, air conditioners, and heating systems) mitigates high-fat diet risks, whereas improved food storage or physical activities show little effect. Socioeconomic disparities are evident, with rural and poor individuals more likely to adopt high-fat diets under hot or cold weather. Projections indicate that climate change may increase the prevalence of high-fat diets nationally, while substantial regional heterogeneity emerges, with declines in northeast regions and increases in southern regions. These results highlight a crucial but overlooked pathway linking climate change to dietary health inequality.</details>
-
-<li>“<b>Environmental Health Benefits of Public Infrastructure: Evidence from Tap Water and Water Pollution in China</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-c">Environment</span> <span class="label label-b">Health</span></li>
-<ul><li>Excellent Paper Award, The 7th China Health Economic Development Forum, 2024</li></ul>
-<ul><li>Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024</li></ul>
-<ul><li>Presentations: Chinese Economists Society (CES) Annual Conference (Zhejiang University, 2024); The 8th CCER Summer Institute (Peking University, 2024); The 8th Annual Meeting of the China Labor Economists Forum (Shanghai University of Finance and Economics, 2024); The 21st Seminar of Chinese Women Economists (Wuhan University, 2024)</li></ul>
-<ul><li>Presentations by co-authors: China Economics Annual Conference (Peking University, 2024); The 7th China Health Economic Development Forum (Sichuan University, 2024); The 5th Workshop on Resource Security and Economic Sciences (Xiamen University, 2024)</li></ul>
-<details><summary>[Abstract]</summary>Based on data from the China Health and Nutrition Survey and Surface Water Quality Weekly Report, we estimate the effects of water pollution, tap water, and their interaction on individual health status. Using the panel IV regression method, we find that water pollution significantly increases the morbidity rate, while ignoring the different levels of pollution exposure caused by the use of tap water may lead to a serious underestimate of the impact of water pollution. Regression results show that tap water can offset about 60% of the negative health effects of water pollution, and the non-offsetting part may come from pollutants that cannot be eliminated by treatment processes in waterworks. Finally, comparing the disease cost and the total health cost caused by water pollution, we find that nearly 2/3 of the health cost can be attributed to the disease cost. As one of the most important infrastructure investments, the adoption of tap water greatly eliminates the negative impact of water pollution on the health of Chinese residents. This has important general implications for low-income countries with a low proportion of tap water supply worldwide.</details>
-
-<li>“<b>Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-c">Environment</span></li>
-<ul><li>Presentations by co-authors: The Second Conference on Development and Governance: Towards a Global Sustainable Future (CHUK Shenzhen, 2025)</li></ul>
-<details><summary>[Abstract]</summary>Climate change is reshaping water quality management by altering the dynamics of coupled human–natural systems in ways that undermine progress toward sustainable development. Using national-scale monitoring data from China, we show that dissolved oxygen (DO)-a key indicator for both aquatic ecosystem health and drinking water safety-is systematically distorted by rising temperatures. While organic and nutrient pollution indicators such as CODMn and NH3-N improve in summer due to hydrologic flushing, DO concentrations paradoxically decline, with econometric analysis confirming that these reductions reflect physical solubility effects rather than increased pollution. This climate-driven distortion leads to widespread misclassification of water quality, affecting nearly 28% of summer assessments and disproportionately impacting warmer southern regions. Such distortions risk diverting resources away from actual pollution pressures, weakening resilience in water governance. Therefore, we recommend selecting metrics that match each specific water‑use purpose. Drinking water standards should rely on DO saturation, whereas DO concentration should be retained for criteria that protect aquatic biodiversity. Although focused on China, the findings are globally relevant, highlighting how climate change threatens progress on Sustainable Development Goals (SDGs) and underscoring the urgency of sustainable, climate-informed management strategies.</details>
+</li>
 </ol>
 
+## Working Papers
 
-## Publication in Chinese
-
-<ol>
-<li>Ding Ma and Shuo Li*. “<b>Trends in China’s surface water quality and control policy solutions</b>”. <b><i>China Population, Resources and Environment</i></b>, 2023,33(05):27-39.
+<ol class="paper-list">
+<li>“<b>Extreme Temperatures Promote High-Fat Diets</b>” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) [<a href="https://www.nber.org/papers/w34609">NBER Working Paper No. 34609</a>] <span class="label label-a">Climate change</span> <span class="label label-b">Health</span>
+<ul>
+<li>The Second Award and The Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics, 2025</li>
+<li>Excellent Paper Award, The 6th China Health Economic Development Forum, 2023</li>
+</ul>
+<!-- Presentations
+<ul>
+<li>Presentations: The 8th HEOA Doctoral Forum on Health Policy and Economics (Sichuan University, 2025); The 5th PKU - FDU Graduate Forum on Health Economics (Peking University, 2025); The 8th China Health Economics Forum (Xiamen University, 2025)</li>
+<li>Presentations by co-authors: The 9th CCER Summer Institute (Peking University, 2025); The 4th Annual Conference of CAERE (Shanghai University of Finance and Economics, 2025); The 6th China Health Economic Development Forum (Wuhan University, 2023)</li>
+</ul>
+-->
+<details><summary>[Abstract]</summary>Extreme temperatures threaten agriculture and exacerbate global food insecurity, yet their direct impact on dietary choices remains poorly understood. We provide novel evidence of how short-term exposures to hot or cold weather affect macronutrient intake in China. We show that hot weather reduces carbohydrate and protein consumption but not fat intake, while cold weather increases all nutrient intake, particularly fats. Both conditions elevate high-fat diet risks. Temperature-induced dietary changes are primarily driven by physiological appetite regulation, as altering thermal comfort (via fans, air conditioners, and heating systems) mitigates high-fat diet risks, whereas improved food storage or physical activities show little effect. Socioeconomic disparities are evident, with rural and poor individuals more likely to adopt high-fat diets under hot or cold weather. Projections indicate that climate change may increase the prevalence of high-fat diets nationally, while substantial regional heterogeneity emerges, with declines in northeast regions and increases in southern regions. These results highlight a crucial but overlooked pathway linking climate change to dietary health inequality.</details>
 </li>
-马丁,李硕 (通讯作者). 中国地表水水质变化趋势及治理政策应对[J].<b><i>中国人口·资源与环境</i></b>, 2023,33(05):27-39.
-<li>马丁. 埃塞俄比亚外汇管制问题分析.<b><i>《冲突与发展：埃塞俄比亚政治、经济与社会研究》, 北京：新华出版社</i></b>, 2025：第六章.</li>
+
+<li>“<b>Environmental Health Benefits of Public Infrastructure: Evidence from Tap Water and Water Pollution in China</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-c">Environment</span> <span class="label label-b">Health</span>
+<ul>
+<li>Excellent Paper Award, The 7th China Health Economic Development Forum, 2024</li>
+<li>Excellent Paper Award, The 8th Annual Meeting of the China Labor Economists Forum, 2024</li>
+</ul>
+<!-- Presentations
+<ul>
+<li>Presentations: Chinese Economists Society (CES) Annual Conference (Zhejiang University, 2024); The 8th CCER Summer Institute (Peking University, 2024); The 8th Annual Meeting of the China Labor Economists Forum (Shanghai University of Finance and Economics, 2024); The 21st Seminar of Chinese Women Economists (Wuhan University, 2024)</li>
+<li>Presentations by co-authors: China Economics Annual Conference (Peking University, 2024); The 7th China Health Economic Development Forum (Sichuan University, 2024); The 5th Workshop on Resource Security and Economic Sciences (Xiamen University, 2024)</li>
+</ul>
+-->
+<details><summary>[Abstract]</summary>Based on data from the China Health and Nutrition Survey and Surface Water Quality Weekly Report, we estimate the effects of water pollution, tap water, and their interaction on individual health status. Using the panel IV regression method, we find that water pollution significantly increases the morbidity rate, while ignoring the different levels of pollution exposure caused by the use of tap water may lead to a serious underestimate of the impact of water pollution. Regression results show that tap water can offset about 60% of the negative health effects of water pollution, and the non-offsetting part may come from pollutants that cannot be eliminated by treatment processes in waterworks. Finally, comparing the disease cost and the total health cost caused by water pollution, we find that nearly 2/3 of the health cost can be attributed to the disease cost. As one of the most important infrastructure investments, the adoption of tap water greatly eliminates the negative impact of water pollution on the health of Chinese residents. This has important general implications for low-income countries with a low proportion of tap water supply worldwide.</details>
+</li>
+
+<li>“<b>Temperature-Dissolved Oxygen Relationship Challenges Water Quality Management Under Climate Change</b>” (with <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) <span class="label label-c">Environment</span>
+<!-- Presentations
+<ul>
+<li>Presentations by co-authors: The Second Conference on Development and Governance: Towards a Global Sustainable Future (CUHK Shenzhen, 2025)</li>
+</ul>
+-->
+<details><summary>[Abstract]</summary>Climate change is reshaping water quality management by altering the dynamics of coupled human–natural systems in ways that undermine progress toward sustainable development. Using national-scale monitoring data from China, we show that dissolved oxygen (DO)-a key indicator for both aquatic ecosystem health and drinking water safety-is systematically distorted by rising temperatures. While organic and nutrient pollution indicators such as CODMn and NH3-N improve in summer due to hydrologic flushing, DO concentrations paradoxically decline, with econometric analysis confirming that these reductions reflect physical solubility effects rather than increased pollution. This climate-driven distortion leads to widespread misclassification of water quality, affecting nearly 28% of summer assessments and disproportionately impacting warmer southern regions. Such distortions risk diverting resources away from actual pollution pressures, weakening resilience in water governance. Therefore, we recommend selecting metrics that match each specific water‑use purpose. Drinking water standards should rely on DO saturation, whereas DO concentration should be retained for criteria that protect aquatic biodiversity. Although focused on China, the findings are globally relevant, highlighting how climate change threatens progress on Sustainable Development Goals (SDGs) and underscoring the urgency of sustainable, climate-informed management strategies.</details>
+</li>
+</ol>
+
+## Publications in Chinese
+
+<ol class="paper-list">
+<li>Ding Ma and Shuo Li*. “<b>Trends in China's Surface Water Quality and Control Policy Solutions</b>”. <b><i>China Population, Resources and Environment</i></b>, 2023, 33(05): 27-39.<br>
+马丁, 李硕 (通讯作者). 中国地表水水质变化趋势及治理政策应对[J]. <b><i>中国人口·资源与环境</i></b>, 2023, 33(05): 27-39.</li>
+
+<li>马丁. 埃塞俄比亚外汇管制问题分析. <b><i>《冲突与发展：埃塞俄比亚政治、经济与社会研究》</i></b>, 北京: 新华出版社, 2025: 第六章.</li>
 </ol>
