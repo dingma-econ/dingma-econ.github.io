@@ -134,3 +134,23 @@ summary {
     border-color: @black;
   }
 }
+
+/* CV page: inline PDF viewer (desktop only; phones keep just the buttons) */
+.cv-embed {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: 85vh;
+    min-height: 600px;
+    border: 0;
+  }
+}
+
+@media (max-width: @screen-xs-max) {
+  .cv-embed {
+    display: none;
+  }
+}
