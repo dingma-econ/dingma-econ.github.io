@@ -4,7 +4,7 @@ title: Curriculum Vitae
 no_heading: true
 ---
 
-{% capture cv_pdf %}{{ "/assets/CV_Ding_Ma_ENG.pdf" | relative_url }}?v={{ site.time | date: "%Y%m%d%H%M" }}{% endcapture %}
+{% capture cv_pdf %}{{ "/assets/CV_Ding_Ma_CHN.pdf" | relative_url }}?v={{ site.time | date: "%Y%m%d%H%M" }}{% endcapture %}
 My curriculum vitae is available as a PDF. You can read it below, open it in a new tab, or download a copy.
 
 <p class="cv-buttons">
