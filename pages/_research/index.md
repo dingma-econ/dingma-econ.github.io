@@ -38,7 +38,7 @@ no_heading: true
 ## Working Papers
 
 <ol class="paper-list">
-<li>“<b>Temperature and the Composition of Diets</b>” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) [<a href="https://www.nber.org/papers/w34609">NBER Working Paper No. 34609</a>], conditionally accepted at <b><i>Journal of Development Economics</i></b> <span class="label label-a">Climate change</span> <span class="label label-b">Health</span>
+<li>“<b>Temperature and the Composition of Diets: Evidence from China</b>” (with <a href="https://ysph.yale.edu/profile/xi-chen/">Xi Chen</a>, <a href="https://shuoliecon.github.io/">Shuo Li</a> and <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm">Jintao Xu</a>) [<a href="https://www.nber.org/papers/w34609">NBER Working Paper No. 34609</a>], conditionally accepted at <b><i>Journal of Development Economics</i></b> <span class="label label-a">Climate change</span> <span class="label label-b">Health</span>
 <ul>
 <li>Previously circulated as “Extreme Temperatures Promote High-Fat Diets”</li>
 <li>The Second Award and The Best Poster Award, The 8th HEOA Doctoral Forum on Health Policy and Economics, 2025</li>
